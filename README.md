@@ -6,14 +6,15 @@
 
 ---
 
-## 🚀 Current Roles
+## 🚀 Current & Past Roles
 - **Software Developer Intern** @ Fee Dodger LLC (Mar 2024 – Present)  
 - **Student IT Assistant (Engineering Tech Services)** @ OSU College of Engineering (Jul 2024 – Present)  
 - **Student IT Assistant (Pathology)** @ OSU Wexner Medical Center (May 2025 – Jul 2025)  
+- **Undergraduate Research Assistant** @ OSU College of Medicine (Dec 2023 – Feb 2024)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 ![Muneeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkhan2050&show_icons=true&theme=radical&include_all_commits=true&v=1)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhan2050&layout=compact&theme=radical&v=1)  
 
