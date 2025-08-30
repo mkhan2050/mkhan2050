@@ -88,7 +88,7 @@
 
 ## 🏅 Key Certifications  
 
-![JPMorgan Chase – Software Engineering Simulation](https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering%20Simulation-964B00?style=for-the-badge)  
+[![JPMorgan Chase – Software Engineering Simulation](https://img.shields.io/badge/JPMorgan%20Chase-Software%20Engineering%20Simulation-964B00?style=for-the-badge)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_CWuDStAKYvTHS2QCS_1752021721942_completion_certificate.pdf)   
 
 ---
 
